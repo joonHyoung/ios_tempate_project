@@ -1,0 +1,14 @@
+//
+//  DEV.xcconfig
+//  template
+//
+//  Created by joonHyoung on 2022/11/15.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APP_NAME = DevApp
+APP_TOKEN = DevToken
+APP_BUNDLE_ID = com.example.templateDev
+SERVER_URL = https:/$()/d.example.com
+API_SERVER_URL = http:/$()/dummy.restapiexample.com/api/v1/employees

@@ -1,0 +1,14 @@
+//
+//  RELEASE.xcconfig
+//  template
+//
+//  Created by joonHyoung on 2022/11/15.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APP_NAME = ReleaseApp
+APP_TOKEN = ReleaseToken
+APP_BUNDLE_ID = com.example.template
+SERVER_URL = https:/$()/www.example.com
+API_SERVER_URL = http:/$()/dummy.restapiexample.com/api/v1/employees

@@ -1,0 +1,14 @@
+//
+//  QA.xcconfig
+//  template
+//
+//  Created by joonHyoung on 2022/11/15.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APP_NAME = QaApp
+APP_TOKEN = QaToken
+APP_BUNDLE_ID = com.example.templateQa
+SERVER_URL = https:/$()/q.example.com
+API_SERVER_URL = http:/$()/dummy.restapiexample.com/api/v1/employees
